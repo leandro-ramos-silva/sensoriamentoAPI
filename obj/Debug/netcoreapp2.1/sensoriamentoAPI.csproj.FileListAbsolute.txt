@@ -1,0 +1,14 @@
+C:\sensoriamento\sensoriamentoAPI\bin\Debug\netcoreapp2.1\sensoriamentoAPI.deps.json
+C:\sensoriamento\sensoriamentoAPI\bin\Debug\netcoreapp2.1\sensoriamentoAPI.runtimeconfig.json
+C:\sensoriamento\sensoriamentoAPI\bin\Debug\netcoreapp2.1\sensoriamentoAPI.runtimeconfig.dev.json
+C:\sensoriamento\sensoriamentoAPI\bin\Debug\netcoreapp2.1\sensoriamentoAPI.dll
+C:\sensoriamento\sensoriamentoAPI\bin\Debug\netcoreapp2.1\sensoriamentoAPI.pdb
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.csprojAssemblyReference.cache
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.csproj.CoreCompileInputs.cache
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.RazorAssemblyInfo.cache
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.RazorAssemblyInfo.cs
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.AssemblyInfoInputs.cache
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.AssemblyInfo.cs
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.RazorTargetAssemblyInfo.cache
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.dll
+C:\sensoriamento\sensoriamentoAPI\obj\Debug\netcoreapp2.1\sensoriamentoAPI.pdb
