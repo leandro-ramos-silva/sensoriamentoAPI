@@ -1,0 +1,28 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: sensoriamento-api
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: sensoriamento-api
+    spec:
+      containers:
+      - name: sensoriamento-api
+        image: redis
+        ports:
+        - containerPort: 5000
+          name: redis
+		  
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sensoriamento-api
+spec:
+  ports:
+  - port: 5000
+  selector:
+    app: asensoriamento-api
